@@ -8,3 +8,6 @@ kláraði nánast að setja inni excel skjalið og byrja að tengja saman tölvu
 
 29.Nov - Fimmtud
 Kláraði Excel skjalið og kláraði að tengja allt saman ALLLLLLLLT SAMAN
+
+6.Des - Fimmtud
+Byrjaði að setja Vlön og stuff á vörðuskólan vantar trunk 
